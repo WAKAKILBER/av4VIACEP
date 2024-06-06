@@ -1,0 +1,46 @@
+.root {
+    -fx-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    -fx-background-color: #f5f5f5;
+}
+
+.title {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
+    -fx-padding: 10 0 20 0;
+}
+
+.input-box {
+    -fx-padding: 10;
+    -fx-spacing: 10;
+}
+
+.text-field {
+    -fx-pref-width: 200px;
+    -fx-padding: 5;
+    -fx-border-color: #ccc;
+    -fx-border-radius: 5px;
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-padding: 10;
+    -fx-border-radius: 5px;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #45a049;
+}
+
+.tab-content {
+    -fx-padding: 10;
+    -fx-spacing: 5;
+}
+
+.label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #555;
+}
+
